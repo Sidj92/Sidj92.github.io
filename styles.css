@@ -1,1 +1,8 @@
+table {
+    border-radius: 2;
+    border-color: aquamarine;
+}
 
+.subheading{
+    column-span: all;
+}
