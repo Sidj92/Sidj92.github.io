@@ -4,4 +4,7 @@ table{
 
 .subheading{
     column-span: all;
+    background-color: antiquewhite;
+    font-family: 'Abril Fatface';
+    text-align: center;
 }
