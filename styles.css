@@ -13,23 +13,14 @@
 
 a{
   color: navy;
-  /*text-align: center;*/
+
 }
 
-/*
-h1{
-  text-align: center;
-} */
-
-table{
+.table{
     border: 2px solid black;
     background-color: rgb(255, 249, 241);
 }
-/*
-.table-container{
-    align-items: center;
-    justify-content: center;
-}*/
+
 
 .subheading{
     padding: 10px 0;
@@ -44,9 +35,5 @@ thead{
     line-height: 50px;
 }
 
-/*
-tbody{
-    padding: 2rem 0;
-}*/
 
 
