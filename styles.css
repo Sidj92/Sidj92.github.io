@@ -17,6 +17,12 @@ table{
     background-color: rgb(255, 249, 241);
 }
 
+.table-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .subheading{
     padding: 10px 0;
     background-color: antiquewhite;
